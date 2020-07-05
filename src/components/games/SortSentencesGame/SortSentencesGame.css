@@ -1,0 +1,37 @@
+.SortSentencesGame .challenge .image {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+  height: 500px;
+}
+.SortSentencesGame .challenge .challenge-solved {
+  color: #5eb762;
+}
+.SortSentencesGame .challenge .challenge-unsolved {
+  color: #ff4466;
+}
+.SortSentencesGame .challenge .sentence-word {
+  font-size: 30px;
+}
+.SortSentencesGame .challenge .draggable-mirror {
+  background-color: #fff4e5;
+  color: #663c00;
+  padding: 4px;
+}
+.SortSentencesGame .challenge .draggable-source--is-dragging {
+  background-color: #fff4e5;
+  color: #663c00;
+}
+
+.SortSentencesGame p {
+  font-family: "Andika", sans-serif;
+}
+
+.SortSentencesGame em {
+  font-style: normal;
+}
+
+.SortSentencesGame .text__word {
+  font-size: 30px;
+  cursor: pointer;
+}

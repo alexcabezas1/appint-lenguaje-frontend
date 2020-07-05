@@ -1,0 +1,9 @@
+.ReadingComprehensionGame .text p {
+  font-family: "Andika", sans-serif;
+  text-align: left;
+  line-height: 160%;
+  font-size: 15pt;
+}
+.ReadingComprehensionGame .answer {
+  font-family: "Open Sans", sans-serif;
+}

@@ -1,0 +1,379 @@
+{
+  "options": [
+    {
+      "text": "Carlos:<br/>Cuando vuelvas del colegio, recuerda lo que tienes que hacer:<br/>- Sacar al perro de paseo.<br/>- Arreglar tu habitación.<br/>Mamá.",
+      "questions": [
+        {
+          "question": "¿Quién escribe la nota?",
+          "answers": ["La mamá de Carlos.", "Carlos.", "La tía de Carlos."],
+          "right_answer": "La mamá de Carlos."
+        },
+        {
+          "question": "¿Para quién es la nota?",
+          "answers": [
+            "Para la mamá de Carlos.",
+            "Para Carlos.",
+            "Para la hermana de Carlos."
+          ],
+          "right_answer": "Para Carlos."
+        },
+        {
+          "question": "¿Para qué se escribió esta nota?",
+          "answers": [
+            "Para informarnos de Carlos.",
+            "Para recordar a Carlos lo que tiene que hacer.",
+            "Para contarnos de Carlos y su mamá."
+          ],
+          "right_answer": "Para recordar a Carlos lo que tiene que hacer."
+        }
+      ]
+    },
+    {
+      "text": "Pelitos blancos<br/>Había una vez una villa de conejos llamada “Orejas Caídas” que quedaba al norte de un bosque. A los conejos que vivían ahí les decían “orejas caídas” porque tenían las orejas inclinadas completamente hacia abajo. Los conejos de esta villa estaban muy orgullosos de sus orejas largas y caídas. Pero había un conejo joven de la villa que no se sentía muy feliz. Sus orejas eran diferentes pues las tenía paradas. Todos se burlaban de él y lo llamaban “Pelitos blancos”.<br/>- Deberías estar orgulloso ya que tus orejas son igualitas a las que tenía tu abuelito, - le decía siempre su mamá.<br/>Pero a Pelitos blancos no le gustaba verse diferente. Quería que sus orejas fueran largas y caídas como las de los demás conejos de su villa.",
+      "questions": [
+        {
+          "question": "¿De qué estaban orgullosos los conejos de la villa?",
+          "answers": [
+            "De sus padres.",
+            "De sus orejas caídas.",
+            "De su villa."
+          ],
+          "right_answer": "De sus orejas caídas."
+        },
+        {
+          "question": "¿Por qué el conejito joven no se sentía feliz?",
+          "answers": [
+            "Porque sus orejas eran diferentes.",
+            "Porque su mamá lo reñía.",
+            "Porque sus amigos lo molestaban."
+          ],
+          "right_answer": "Porque sus orejas eran diferentes."
+        },
+        {
+          "question": "¿Qué quiere decir “orejas inclinadas”?",
+          "answers": [
+            "Orejas paradas.",
+            "Orejas caídas.",
+            "Orejas diferentes."
+          ],
+          "right_answer": "Orejas caídas."
+        },
+        {
+          "question": "“Pelitos blancos” debía estar orgulloso porque:",
+          "answers": [
+            "Su madre lo quería mucho.",
+            "Sus orejas eran únicas e iguales a las que tenía su abuelito.",
+            "Porque sus orejas eran grandes y caídas."
+          ],
+          "right_answer": "Sus orejas eran únicas e iguales a las que tenía su abuelito."
+        },
+        {
+          "question": "Este cuento nos enseña principalmente que:",
+          "answers": [
+            "Debemos aceptarnos como somos.",
+            "No debemos tratar de aparentar lo que no somos.",
+            "No debemos preocuparnos por parecernos a los demás."
+          ],
+          "right_answer": "Debemos aceptarnos como somos."
+        }
+      ]
+    },
+    {
+      "text": "El sol y el girasol<br/>Una mañana de duro invierno, las flores se quedaron dormidas. Tenían tanto frío, que unas a otras se abrazaban para calentarse. Pero una de ellas abrió sus pétalos amarillos, buscando la luz del día. Y, a pesar de que el sol estaba oculto por las nubes, la flor siguió elevando sus pétalos amarillos como buscándolo.<br/>Al darse cuenta de esto, el sol, que todo lo veía, se acercó a la hermosa flor y le preguntó como se llamaba.<br/>- No tengo nombre – le dijo tímidamente.<br/>- Desde hoy, te llamarás girasol. Tendrás los pétalos tan brillantes como mis rayos y siempre se abrirán hacia donde yo esté –<br/>- Le dijo el sol, acariciándola con sus rayos de luz y calor.",
+      "questions": [
+        {
+          "question": "¿Qué tipo de texto es el que acabas de leer?",
+          "answers": ["Narrativo.", "Descriptivo.", "Instructivo."],
+          "right_answer": "Narrativo."
+        },
+        {
+          "question": "¿Cuál de estos hechos ocurrió primero en el cuento?",
+          "answers": [
+            "La flor siguió elevando sus pétalos.",
+            "Las flores se quedaron dormidas.",
+            "Las flores se abrazaban para calentarse."
+          ],
+          "right_answer": "Las flores se quedaron dormidas."
+        },
+        {
+          "question": "¿Por qué el sol se acercó al girasol?",
+          "answers": [
+            "Porque le pareció gracioso.",
+            "Porque observó el esfuerzo que hacía por encontrarlo.",
+            "Porque quiso ayudarlo."
+          ],
+          "right_answer": "Porque observó el esfuerzo que hacía por encontrarlo."
+        },
+        {
+          "question": "¿Cómo era el girasol?",
+          "answers": ["Era haragán.", "Era perseverante.", "Era miedoso."],
+          "right_answer": "Era perseverante."
+        },
+        {
+          "question": "Este cuento nos enseña principalmente que:",
+          "answers": [
+            "Debemos esforzarnos por lograr lo que nos proponemos.",
+            "Debemos pedir ayuda a los demás.",
+            "Debemos esperar a que todo pase."
+          ],
+          "right_answer": "Debemos esforzarnos por lograr lo que nos proponemos."
+        }
+      ]
+    },
+    {
+      "text": "A un campesino se le cayó su hacha en un río, y apenado se puso a llorar. El espíritu de las aguas se compadeció de él y presentándole un hacha de oro, le preguntó:<br/>- ¿Es ésta tu hacha? El campesino respondió:<br/>- No, no es la mía.<br/>El espíritu de las aguas le presentó un hacha de plata.<br/>- Tampoco es ésa- dijo el campesino.<br/>Entonces el espíritu de las aguas le presentó su propia hacha de hierro. Viéndola el campesino exclamó:<br/>- ¡Ésa es la mía !<br/>Para recompensarlo por su honradez, el espíritu de las aguas le dio las tres hachas.<br/>De regreso a su casa, el campesino mostró su regalo, contando su aventura a sus amigos. Uno de ellos quiso probar suerte; fue a la orilla del río, dejó caer su hacha y rompió a llorar.<br/>El espíritu de las aguas le presentó un hacha de oro y le preguntó:<br/>-¿Es ésta tu hacha?<br/>El campesino, lleno de alegría respondió:<br/>- Sí, sí, es la mía.<br/>El espíritu no le dio el hacha de oro ni la suya de hierro, en castigo de su mentira.",
+      "questions": [
+        {
+          "question": "¿Qué se le cayó al campesino en el río?",
+          "answers": [
+            "Un hacha de oro.",
+            "Un hacha de hierro.",
+            "Un hacha de plata."
+          ],
+          "right_answer": "Un hacha de hierro."
+        },
+        {
+          "question": "El espíritu de las aguas le dio las tres hachas al campesino por que:",
+          "answers": [
+            "El campesino mintió.",
+            "El campesino fue honrado y dijo la verdad.",
+            "El campesino lloraba mucho."
+          ],
+          "right_answer": "El campesino fue honrado y dijo la verdad."
+        },
+        {
+          "question": "En el texto ¿qué quiere decir “ el espíritu se compadeció de él”?",
+          "answers": [
+            "El espíritu tuvo pena de él.",
+            "El espíritu lo castigo a él.",
+            "El espíritu lo premió a él."
+          ],
+          "right_answer": "El espíritu tuvo pena de él."
+        },
+        {
+          "question": "Esta historia nos enseña principalmente que:",
+          "answers": [
+            "Debemos ser honrados y decir siempre la verdad.",
+            "Debemos aprovecharnos para lograr lo que queremos.",
+            "Debemos mentir para tener lo que deseamos."
+          ],
+          "right_answer": "Debemos ser honrados y decir siempre la verdad."
+        },
+        {
+          "question": "El texto que leíste es un:",
+          "answers": ["Aviso.", "Leyenda.", "Receta.", "Cuento."],
+          "right_answer": "Cuento."
+        }
+      ]
+    },
+    {
+      "text": "Los pingüinos son aves. La mayoría de ellos viven cerca del polo sur. Tienen el pecho blanco, su espalda y cabeza son negros. <br/>Aunque tienen alas, no pueden volar; las usan como si fueran remos para desplazarse velozmente por el agua. También se impulsan con sus patas palmeadas como los patos. Los pingüinos son excelentes nadadores.<br/>Los pingüinos andan con bastante torpeza; por eso les llama también pájaros bobos. No pueden ir muy rápido y andan de forma divertida, balanceándose de un lado a otro.<br/>Los pingüinos solo comen cuando están en el agua: peces, calamares, cangrejos y gambas.<br/>Viven en colonias donde se congregan millones de ellos. Anidan una vez por año.",
+      "questions": [
+        {
+          "question": "¿Dónde viven los pingüinos?",
+          "answers": [
+            "En los mares de todo el mundo.",
+            "Cerca del polo sur.",
+            "En la orilla de la playa."
+          ],
+          "right_answer": "Cerca del polo sur."
+        },
+        {
+          "question": "¿Por qué se les llama pájaros bobos:",
+          "answers": [
+            "Porque caminan con gracia y rapidez.",
+            "Porque son veloces como el delfín.",
+            "Porque andan con bastante torpeza."
+          ],
+          "right_answer": "Porque andan con bastante torpeza."
+        },
+        {
+          "question": "Según el texto ¿Qué quiere decir viven en colonias?",
+          "answers": [
+            "Que viven agrupados en millones de ellos.",
+            "Que viven solos.",
+            "Que viven en grupos por familias."
+          ],
+          "right_answer": "Que viven en grupos por familias."
+        },
+        {
+          "question": "¿Por qué los pingüinos son excelentes nadadores?",
+          "answers": [
+            "Porque les gusta el mar.",
+            "Porque con sus alas que usan como remos se desplazan velozmente.",
+            "Porque nadan de forma graciosa."
+          ],
+          "right_answer": "Porque con sus alas que usan como remos se desplazan velozmente."
+        }
+      ]
+    },
+    {
+      "text": "El puma es un animal carnívoro que vive especialmente en las montañas o bosques de América.<br/>Pertenece a la familia de los félidos y llega a medir casi dos metros de longitud sin incluir su cola.<br/>Trepa muy ágilmente a los árboles y en ellos se refugia cuando se ve en peligro. Puede saltar 9 metros en terreno llano y hasta 12 m desde la rama de un árbol.<br/>Tiene un cuerpo flexible que parece que se alargara al correr, y sus músculos se contraen y estiran dibujándose debajo de su piel.<br/>Este es un felino silencioso, se desplaza furtivamente y es el terror de los animales como cabras, ciervos, alces ,aunque también son sus presas ratones, peces y aves.<br/>Ataca a sus víctimas saltando a su lomo y destrozándole las vértebras del cuello, para darse después un festín con sus despojos. En ocasiones mata más de lo que necesita y cubre con ramas y tierra lo que no come para volver a buscarlo cuando tiene hambre.<br/>La hembra tiene de dos a cuatro cachorritos cada año. Debido a los daños que ocasiona al ganado, es perseguido por los granjeros y se ha convertido en una especie amenazada, habitando actualmente en zonas<br/>áridas.",
+      "questions": [
+        {
+          "question": "El puma vive especialmente en:",
+          "answers": [
+            "En las selvas de América",
+            "Las zonas montañosas y boscosas de América.",
+            "En el campo."
+          ],
+          "right_answer": "Las zonas montañosas y boscosas de América."
+        },
+        {
+          "question": "El cuerpo del puma es flexible por qué:",
+          "answers": [
+            "Acecha a sus presas",
+            "Sus músculos se contraen y estiran al correr.",
+            "Es veloz"
+          ],
+          "right_answer": "Sus músculos se contraen y estiran al correr."
+        },
+        {
+          "question": "¿Qué quiere decir se desplaza furtivamente?",
+          "answers": [
+            "Se desplaza haciendo gran ruido.",
+            "Se desplaza silenciosamente.",
+            "Se desplaza lentamente."
+          ],
+          "right_answer": "Se desplaza silenciosamente."
+        },
+        {
+          "question": "¿Por qué el puma es una especie amenazada?",
+          "answers": [
+            "Porque es perseguida por los granjeros.",
+            "Porque es un animal protegido.",
+            "Porque abunda en las montañas."
+          ],
+          "right_answer": "Porque es perseguida por los granjeros."
+        },
+        {
+          "question": "¿De qué trata el texto que leíste?",
+          "answers": [
+            "Trata de cómo es el puma.",
+            "Trata de cómo son las montañas.",
+            "Trata de cómo son los felinos."
+          ],
+          "right_answer": "Trata de cómo es el puma."
+        },
+        {
+          "question": "El texto que leíste se escribió para:",
+          "answers": [
+            "Contarnos una historia.",
+            "Darnos información.",
+            "Darnos una opinión."
+          ],
+          "right_answer": "Darnos información."
+        }
+      ]
+    },
+    {
+      "text": "Algunas personas lo llaman caballete o caballito de San Pedro, pero su nombre real es libélula. La libélula es un insecto grande y atractivo que no hace daño a la gente. Puede ser de cualquiera de los bellos colores brillantes del arco iris: rojo, azul, verde o amarillo. Casi siempre puedes verla en el verano volando cerca de un estanque o de un arroyo.<br/>La libélula es muy diferente a la mayoría de los insectos y puede hacer muchas cosas sorprendentes.<br/>Es un insecto que puede volar muy rápido y de manera elegante. Puede volar muy rápido hacia arriba o hacia abajo o volar de lado a lado. Hace todas estas cosas porque tiene dos pares de alas grandes.<br/>La libélula puede ver mejor que la mayoría de los demás insectos; pues tiene dos ojos gigantescos que ocupan la mitad de su cabeza.<br/>Con sus grandes ojos, la libélula puede ver las cosas a 40 pies de distancia. <br/>La libélula tiene más apetito que la mayoría de los demás insectos. Pasa mucho tiempo buscando que comer. Todos los días se come cientos de mosquitos y moscas.<br/>Usa las patas como una canastita para recoger insectos mientras vuela.<br/>Algunas libélulas son tan fuertes que pueden sacar un pez pequeño del agua.",
+      "questions": [
+        {
+          "question": "¿Con qué otro nombre se le conoce a la libélula?",
+          "answers": [
+            "Insecto aéreo.",
+            "Caballito de San Pedro.",
+            "Cazador de arco iris."
+          ],
+          "right_answer": "Caballito de San Pedro."
+        },
+        {
+          "question": "¿Por qué la libélula vuela muy alto?",
+          "answers": [
+            "Porque así llama a las demás.",
+            "Porque posee dos pares de alas.",
+            "Porque le gusta la velocidad y altura."
+          ],
+          "right_answer": "Porque posee dos pares de alas."
+        },
+        {
+          "question": "La libélula es un insecto asombroso por qué:",
+          "answers": [
+            "Tiene alas a los lados.",
+            "Puede hacer muchas cosas que la mayoría de los demás insectos.",
+            "No le hacen daño a las personas."
+          ],
+          "right_answer": "Puede hacer muchas cosas que la mayoría de los demás insectos."
+        },
+        {
+          "question": "¿De qué trata principalmente el texto que leíste?",
+          "answers": [
+            "Trata de que se alimenta la libélula.",
+            "Trata de lo sorprendente que es la libélula.",
+            "Trata de donde viven las libélulas."
+          ],
+          "right_answer": "Trata de lo sorprendente que es la libélula."
+        },
+        {
+          "question": "El texto que leíste se escribió para:",
+          "answers": [
+            "Contarnos una historia.",
+            "Darnos información.",
+            "Darnos una opinión."
+          ],
+          "right_answer": "Darnos información."
+        }
+      ]
+    },
+    {
+      "text": "Las hormigas son insectos sociales, que viven en grupos muy numerosos. Se desarrollan a través de la metamorfosis; pasan de ser larvas, luego pupas y finalmente se convierten en hormigas adultas.<br/>Las hormigas viven en nidos llamados hormigueros. En un hormiguero puede haber más de medio millón de hormigas!<br/>Se pueden distinguir varios grupos de hormigas, y cada uno de ellos se encarga de realizar una tarea determinada.<br/>La reina: es la hembra encargada de poner huevos. Es la única hembra fértil. ¡Es la mamá del hormiguero! Algunas reinas viven más de 30 años.<br/>Los machos: se aparean con la reina; después se mueren.<br/>Las obreras: son hembras estériles, es decir, incapaces de reproducirse, que desempeñan diferentes tareas en el hormiguero: se encargan de su limpieza, de la alimentación de las larvas, etc.<br/>Los soldados: especializados en la defensa del hormiguero contra intrusos, e incluso, contra otras hormigas vecinas.<br/>Las hormigas para comunicarse entre ellas liberan unas sustancias olorosas, llamadas feromonas, que transmiten información a las otras hormigas (por ejemplo, ante la presencia de un intruso).<br/>También pueden depositar las feromonas en el suelo para trazar pistas que indican, por ejemplo, dónde han encontrado un buen alimento.",
+      "questions": [
+        {
+          "question": "¿Dónde viven las hormigas?",
+          "answers": [
+            "En los hormigueros.",
+            "En todos lados.",
+            "En las hojas."
+          ],
+          "right_answer": "En los hormigueros."
+        },
+        {
+          "question": "En el texto ¿qué quiere decir que las hormigas son sociales?",
+          "answers": [
+            "Que las hormigas viven aisladas.",
+            "Que las hormigas viven en grupos numerosos.",
+            "Que viven en parejas."
+          ],
+          "right_answer": "Que las hormigas viven en grupos numerosos."
+        },
+        {
+          "question": "¿Por qué las hormigas pueden comunicarse con facilidad?",
+          "answers": [
+            "Porque segregan una sustancia llamada feromonas.",
+            "Porque tienen unas enormes antenas.",
+            "Porque caminan en hileras."
+          ],
+          "right_answer": "Porque segregan una sustancia llamada feromonas."
+        },
+        {
+          "question": "La reina es la mamá del hormiguero por qué:",
+          "answers": [
+            "Porque desempeña tareas en el hormiguero.",
+            "Porque es la única fértil capaz de poner huevos.",
+            "Porque defienda a las otras hormigas."
+          ],
+          "right_answer": "Porque es la única fértil capaz de poner huevos."
+        },
+        {
+          "question": "¿De qué trata principalmente el texto que leíste?",
+          "answers": [
+            "Trata de la vida de las hormigas.",
+            "Trata de cómo es la reina.",
+            "Trata de cómo son los hormigueros."
+          ],
+          "right_answer": "Trata de la vida de las hormigas."
+        },
+        {
+          "question": "El texto que leíste se escribió para:",
+          "answers": [
+            "Darnos información sobre las hormigas.",
+            "Contarnos una historia sobre las hormigas.",
+            "Pedirnos que cuidemos a las hormigas."
+          ],
+          "right_answer": "Darnos información sobre las hormigas."
+        }
+      ]
+    }
+  ]
+}

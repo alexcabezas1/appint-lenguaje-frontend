@@ -1,0 +1,24 @@
+{
+  "games": {
+    "sort-sentences": {
+      "slug": "sort-sentences",
+      "name": "Organizador de Oraciones",
+      "description": "El juego le mostrará diferentes imágenes que cuentan una historia y le pedirá que forme las oraciones correctas con las palabras dadas. ¡Deja que el juego te enseñe comprensión de la imagen y gramática mientras juegas! <br/><br/>Se mostrará una imagen y un grupo de palabras, el objetivo del juego es formar una oración con todas las palabras que represente a la imagen mostrada. Se ganan puntos al formar oraciones correctas, ¡pero cuidado! se pueden perder puntos al cometer errores, así que elige con cuidado tus palabras."
+    },
+    "syllables-detector": {
+      "slug": "syllables-detector",
+      "name": "Detector de Sílabas",
+      "description": "El juego te enseñará comprensión de lectura haciéndote preguntas sobre un texto dado. ¡Pon a prueba tu concentración ya que el juego se volverá más difícil con cada nivel! <br/><br/>Se mostrará un cuento en pantalla junto a un grupo de preguntas. Lee el texto y responde correctamente a las preguntas seleccionando la respuesta correcta de entre las opciones dadas para obtener puntos y subir de nivel. Debes estar atento ya que a medida que subes de nivel el número de preguntas aumenta."
+    },
+    "reading-comprehension": {
+      "slug": "reading-comprehension",
+      "name": "Comprensión de Lecturas",
+      "description": "Este es un juego para lectores apasionados, prepárate para dejarte llevar en busca de objetos y disfruta de las fantásticas historias que compartiremos contigo. ¡Preparados, listos, a leer! <br/><br/>Se mostrará en pantalla una consigna y una historia. La consigna indicará el tipo de objeto que deberás buscar en el texto, ya sean animales, planetas, frutas o verduras. Deberás leer el texto y marcar las palabras que coincidan con el objeto que te piden para sumar puntos. "
+    }
+  },
+  "difficulties": [
+    { "slug": "easy", "name": "FÁCIL" },
+    { "slug": "normal", "name": "NORMAL" },
+    { "slug": "hard", "name": "DIFÍCIL" }
+  ]
+}

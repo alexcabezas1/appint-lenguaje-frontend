@@ -1,0 +1,161 @@
+{
+  "difficulty": {
+    "EASY": {
+      "challengesNumber": 2,
+      "countDown": 4,
+      "allowNegativePoints": false,
+      "movementsBonusFactor": 2,
+      "pointsPerChallenge": 20,
+      "sentenceAttribute": "short_text"
+    },
+    "NORMAL": {
+      "challengesNumber": 4,
+      "countDown": 1.5,
+      "allowNegativePoints": false,
+      "movementsBonusFactor": 1.5,
+      "pointsPerChallenge": 40,
+      "sentenceAttribute": "short_text"
+    },
+    "HARD": {
+      "challengesNumber": 8,
+      "countDown": 1,
+      "allowNegativePoints": true,
+      "movementsBonusFactor": 1.2,
+      "pointsPerChallenge": 80,
+      "sentenceAttribute": "text"
+    }
+  },
+  "options": [
+    {
+      "image": "030.jpg",
+      "short_text": [
+        "Muchos niños juegan en la pileta",
+        "No solo hay niños en la pileta también hay adultos",
+        "Los niños se están divirtiendo en la pileta",
+        "Hay animales en la pileta jugando junto a los otros niños",
+        "No puede ser!, parece que hay una sirena en la pileta",
+        "La niña del fondo está tomando una toalla para secarse",
+        "Una niña se está lanzando por el tobogan"
+      ],
+      "text": [
+        "Hay muchos niños jugando en la pileta. Algunos de ellos usan flotadores y otros no.",
+        "Mientras que los niños se divierten en la pileta, un adulto los supervisa",
+        "Los niños no son los únicos que se encuentran en la pileta, también hay animales. Con ellos hay un pingüino, un gato y peces."
+      ]
+    },
+    {
+      "image": "042.jpg",
+      "short_text": [
+        "La familia esta comiendo su desayuno",
+        "Las niñas están comiendo cereal y pan tostado",
+        "Los padres de las niñas están tomando una taza de café",
+        "La familia esta desayunando cereal, tostadas, frutas y jugos",
+        "Las niñas están usando sus pijamas aún",
+        "Hay un pez arriba de la cocina",
+        "A las niñas les gusta mucho lo que están comiendo"
+      ],
+      "text": [
+        "La familia esta empezando su día, las niñas tienen que ir a la escuela y los padres a trabajar",
+        "A las niñas les gusta mucho el cereal y las tostadas de desayuno. Las niñas se ven muy felices.",
+        "Dense prisa niñas tenemos que terminar de prepararlas para llevarlas a la escuela",
+        "Deja a las niñas que coman el desayuno con calma. No podrán tener una buena digestión si comen tan rápido."
+      ]
+    },
+    {
+      "image": "048.jpg",
+      "short_text": [
+        "Vamos a cubrirte con la manta, ya es hora de dormir mi niña",
+        "Hay muchos peluches en la habitación de la niña",
+        "La madre está preparando a su hija para dormir",
+        "La niña tiene muchos juguetes y peluches en su habitación",
+        "A la niña le gustan mucho los peluches de animales"
+      ],
+      "text": [
+        "\"Vamos a cubrirte con la manta, ya es hora de dormir mi niña\", dice la madre mientras su padre se despide desde la puerta de la habitación",
+        "La niña tiene una habitación muy ordenada y limpia, aún cuando tiene muchos juguetes y peluches distribuidos en alredor de la habitación",
+        "Los padres acompañan a la niña a su habitación y la ayudan a prepararse para dormir"
+      ]
+    },
+    {
+      "image": "052.jpg",
+      "short_text": [
+        "El padre y su hija fueron a la joyería",
+        "El vendedor atiende al señor y la niña amablemente",
+        "La niña rompió un collar que estaba viendo por accidente",
+        "La niña está preocupada porque rompió un collar de la tienda mientras lo estaba viendo",
+        "El vendedor de la tienda vende todo tipo de joyas y accesorios",
+        "En esta tienda también se venden relojes",
+        "Al romperse el collar muchas de sus partes cayeron al suelo"
+      ],
+      "text": [
+        "El padre y su hija fueron a la joyería a comprar un regalo para su mamá porque hoy es su cumpleaños. La niña quería que su papá la ayudará a elegir algo bonito para su mamá.",
+        "La niña rompió un collar que estaba viendo por accidente. Aunque al vendedor parace no darle mucha importancia, parece que su padre la regañará por esto.",
+        "Hija, en esta joyería venden todo tipo de joyas y accesorios. Además el vendedor que atiende es muy amable. Seguro podremos encontrar algo que te guste para tu mamá."
+      ]
+    },
+    {
+      "image": "Imagen-3-El-recreo.jpg",
+      "short_text": [
+        "A pesar de estar en temporada de invierno hay muchos niños jugando en el parque",
+        "Hay muchos niños jugando y divirtiendose en el parque",
+        "Los niños se divierten con los diferentes juegos del parque",
+        "Hay niños jugando en los columpios del parque"
+      ],
+      "text": [
+        "Mientras hay una niña recogiendo pelotas del suelo, otros niños juegan con un aro y otros juegan con arena",
+        "Como es temporada de invierno, todos los niños que están jugando el parque están bien abrigados con buzos, bufandas y gorros.",
+        "La maestra está cuidando a los niños mientras ellos juegan en el parque. A pesar de ser un grupo grande niños, ella está haciendo un buen trabajo."
+      ]
+    },
+    {
+      "image": "Imagen-5-Las-dependencias-del-colegio.jpg",
+      "short_text": [
+        "En la escuela hay una bilioteca con muchos libros para leer",
+        "La biblioteca tiene computadoras que los niños pueden usar para conectarse a internet",
+        "Los niños pueden hacer ejercicio en la escuela",
+        "En la escuela los niños pueden jugar y compartir con otros niños en el receso",
+        "Los niños aprenden muchas cosas nuevas en la escuela",
+        "Hay niños que llegan a la escuela porque sus padres los traen",
+        "Hay niños que van a la escuela en el transporte escolar",
+        "La escuela esta preparada para niños discapacitados"
+      ],
+      "text": [
+        "La escuela es un lugar emocionante porque hay muchos niños haciendo cosas diferentes al mismo tiempo en un espacio cerrado",
+        "En la escuela hay un comedor donde los niños pueden comer sus almuerzos o meriendas. También hay un parque donde pueden jugar con otros niños durante el receso.",
+        "En un aula una maestra enseña los números a un grupo de niños mientras otros niños se encuentran en la biblioteca leyendo libros y usando las computadoras para navegar en internet."
+      ]
+    },
+    {
+      "image": "Imagen-7-La-calle-los-transportes.jpg",
+      "short_text": [
+        "En las ciudades siempre ocurren muchas situaciones al mismo tiempo",
+        "Hay un grupo de personas haciendo fila para entrar al cine",
+        "El centro comercial tiene varias tiendas que venden ropa",
+        "En el kiosko venden revistas y parece estar abierto",
+        "Hay muchos autos y motos en la calle y hay un policia controlando el transito",
+        "Hay una persona barriendo las hojas caídas de los árboles"
+      ],
+      "text": [
+        "Debido a que estamos en temporada de otoño, hay personas barriendo las hojas caídas de los árboles",
+        "Hay un policia controlando el transito en las calles, porque hoy hay muchos vehículos circulando tanto transporte público, autos y motos",
+        "Mientras que el policia controla el transito, hay otras personas haciendo diferentes actividades como cruzar la calle, vender revistas en un kiosko, pasear su mascota y haciendo fila para entrar al cine"
+      ]
+    },
+    {
+      "image": "Imagen-15-El-parque-zoológico-II.jpg",
+      "short_text": [
+        "El zoológico es un lugar que puedes visitar para ver animales de cerca",
+        "Un zoológico tiene diferentes tipos de animales pero ellos están enjaulados",
+        "En este zoológico hay animales colgados de los árboles",
+        "Hay una amplia variedad de pajaros y mariposas",
+        "En el zoológico hay un área donde habitan algunos cocodrilos",
+        "A los adultos junto a sus niños les gusta visitar el zoológico con mucha frecuencia"
+      ],
+      "text": [
+        "Mientras una señora observa a los cocodrilos y tortugas, en otra parte del zoológico una señora y su hijo observan la jaula de los insectos",
+        "En el área donde habitan los monos hay una niña con mono encima de su cabeza y su padre se prepara para tomarle una foto con su cámara",
+        "El zoológico les provee a los animales todo los cuidados y las condiciones necesarias para que los animales se sientan en su habitad natural"
+      ]
+    }
+  ]
+}

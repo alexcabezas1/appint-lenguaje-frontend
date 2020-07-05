@@ -1,0 +1,25 @@
+.SyllablesDetectorGame .text p {
+  font-family: "Andika", sans-serif;
+  text-align: text;
+  line-height: 160%;
+}
+.SyllablesDetectorGame em {
+  font-style: normal;
+  font-size: 15pt;
+}
+.SyllablesDetectorGame .text__word {
+  cursor: pointer;
+}
+.SyllablesDetectorGame .text__word_clue {
+  background-color: #e8f4fd;
+  color: #3d9ff4;
+  cursor: pointer;
+}
+.SyllablesDetectorGame .text__word_solved {
+  background-color: #edf7ed;
+  color: #5eb762;
+}
+.SyllablesDetectorGame .text__word:hover {
+  background-color: #fff4e5;
+  color: #663c00;
+}
